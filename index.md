@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to my gitHub page
 
-You can use the [editor on GitHub](https://github.com/artificiallama/artificiallama.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I am a postdoctoral researcher based in Toronto. I have a Ph.D. in application of Monte-Carlo based optimal estimation to non linear models from MIT. I am a machine learning/AI enthusiast. I have completed a certificate course in ML from York University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+My have done the following the projects,
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Predicting S&P price using sentiment analysis of Wall Street Journals headlines.
 
-```markdown
-Syntax highlighted code block
+2. Near real-time sentiment analysis of tweets about Tesla.
 
-# Header 1
-## Header 2
-### Header 3
+3. A hybrid recommender system for online sales company.
 
-- Bulleted
-- List
+4. Named Entity recognition tested on news headlines.
 
-1. Numbered
-2. List
+5. GAN for generation of logos.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/artificiallama/artificiallama.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
