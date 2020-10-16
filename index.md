@@ -4,7 +4,9 @@ I am a postdoctoral researcher based in Toronto. I have a Ph.D. in application o
 </p>
 
 <p align="justify">
-My expertise is in Monte Carlo based Kalman filtering to estimate state and parameters. I assimilate satellite data and insitu observations of atmospheric and chemical variables into numerical models of fluid flow (which provide the first guess). In Machine learning I am interested in  NLP, image processing and optimization related problems.
+My expertise is in Monte Carlo based Kalman filtering to estimate state and parameters. I assimilate satellite data and insitu observations of atmospheric and chemical variables into numerical models of fluid flow (which provide the first guess). 
+  
+In Machine learning I am interested in  NLP, image processing and optimization related problems.
 </p>
 
 <p align="justify">
