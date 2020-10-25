@@ -1,10 +1,13 @@
 ## Welcome to my gitHub page
 
 <p align="justify">
-Education :
+**Education **
+  <br/>
 Ph.D. from MIT, Cambridge (2008)
+  <br/>
   Optimal estimation applied to non-linear models.
   
+<br/>  
 Certificate course in Machine Learning from York University, Toronto (2019).
   
 </p>
