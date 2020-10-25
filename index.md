@@ -5,7 +5,7 @@ Education :
 Ph.D. from MIT, Cambridge (2008)
   Optimal estimation applied to non-linear models.
   
-Certificate course in Machine Learning  (2019)  
+Certificate course in Machine Learning from York University, Toronto (2019).
   
 </p>
 
