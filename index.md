@@ -1,11 +1,10 @@
-## Welcome to my gitHub page
 
 <p align="justify">
-**Education **
+*Education *
   <br/>
 Ph.D. from MIT, Cambridge (2008)
   <br/>
-  Optimal estimation applied to non-linear models.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Optimal estimation applied to non-linear models.
   
 <br/>  
 Certificate course in Machine Learning from York University, Toronto (2019).
@@ -15,7 +14,9 @@ Certificate course in Machine Learning from York University, Toronto (2019).
 <p align="justify">
 I am a postdoctoral researcher based in Toronto.  My research work is in the field of Monte-Carlo based optimal estimation.
 My expertise is in Monte Carlo based Kalman filtering to estimate state and parameters. I assimilate satellite data and insitu observations of atmospheric and chemical variables into numerical models of fluid flow (which provide the first guess). 
-  
+ 
+<br/> 
+ 
 In Machine learning I am interested in  Natural Language Processing, image processing and optimization related problems.
 </p>
 
