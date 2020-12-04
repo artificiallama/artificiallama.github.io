@@ -15,7 +15,7 @@ My expertise is in Monte Carlo based Kalman filtering to estimate state and para
  
 <br/> 
 <br/> 
-In Machine learning I am interested in  Natural Language Processing, image processing and optimization related problems.
+In Machine learning I am interested in  Natural Language Processing, image processing, optimization and climate/atmosphere related problems.
 </p>
 
 <p align="justify">
