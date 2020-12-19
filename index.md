@@ -6,9 +6,10 @@
 Ph.D. from MIT, Cambridge (2008)
   <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Optimal estimation applied to non-linear models.
-
-   <br/>
+  
 Certificate course in Machine Learning from York University, Toronto (2019).
+
+<br/>
 
 <p align="justify">
 I am a postdoctoral researcher based in Toronto.  My research work is in the field of Monte-Carlo based optimal estimation.
