@@ -13,11 +13,11 @@ Certificate course in Machine Learning York University, Toronto (2019)
 
 <p align="justify">
 I am a postdoctoral researcher based in Toronto.  My research work is in the field of Monte-Carlo based optimal estimation.
-My expertise is in Monte Carlo based Kalman filtering to estimate state and parameters. I assimilate satellite data and insitu observations of atmospheric and chemical variables into numerical models of fluid flow (which provide the first guess). I hold a Bachelors and Masters degrees in Physics from India.
+I assimilate satellite data and insitu observations into geospatial models. I hold a Bachelors and Masters degrees in Physics from India.
  
 <br/> 
 <br/> 
-I have expertise in Artificial Intelligence/Deep Learning. I am particularly interested in  Natural Language Processing, image processing, optimization and climate/atmosphere related problems.
+I have expertise in Artificial Intelligence/Deep Learning. I am particularly interested in  Natural Language Processing (NLP), image processing, optimization and climate/atmosphere related problems.
 </p>
 
 <p align="justify">
@@ -28,6 +28,7 @@ My skills include
   * Linux, Bash scripting
   * SQL, Git, Matlab, Fortran.
   * MLFLow, Docker
+  * CNN
 </p>
 
 I have done the following the projects,
