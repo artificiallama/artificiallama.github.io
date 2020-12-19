@@ -24,10 +24,10 @@ I have expertise in Artificial Intelligence/Deep Learning. I am particularly int
 My skills include :
   
   * Python, scikit-learn, Pandas
-  * Pytorch, Scipy
+  * Pytorch, Keras, Scipy, Numpy
   * Linux, Bash scripting
   * SQL, Git, Matlab, Fortran.
-  * MLFLow, Docker
+  * MLFLow, Docker, Flask, html, CSS, C++
   * CNN
 
 
