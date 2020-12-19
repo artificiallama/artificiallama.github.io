@@ -6,8 +6,8 @@
 Ph.D. from MIT, Cambridge (2008)
   <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Optimal estimation applied to non-linear models.
-  
-Certificate course in Machine Learning from York University, Toronto (2019).
+    
+Certificate course in Machine Learning York University, Toronto (2019)
 
 <br/>
 
