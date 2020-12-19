@@ -20,8 +20,8 @@ I assimilate satellite data and insitu observations into geospatial models. I ho
 I have expertise in Artificial Intelligence/Deep Learning. I am particularly interested in  Natural Language Processing (NLP), image processing, optimization and climate/atmosphere related problems.
 </p>
 
-<p align="justify">
-My skills include 
+
+My skills include :
   
   * Python, scikit-learn, Pandas
   * Pytorch, Scipy
@@ -29,7 +29,7 @@ My skills include
   * SQL, Git, Matlab, Fortran.
   * MLFLow, Docker
   * CNN
-</p>
+
 
 I have done the following the projects,
 
