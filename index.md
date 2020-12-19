@@ -6,6 +6,7 @@
 Ph.D. from MIT, Cambridge (2008)
   <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Optimal estimation applied to non-linear models.
+
    <br/>
 Certificate course in Machine Learning from York University, Toronto (2019).
 
@@ -15,12 +16,17 @@ My expertise is in Monte Carlo based Kalman filtering to estimate state and para
  
 <br/> 
 <br/> 
-In Machine learning I am interested in  Natural Language Processing, image processing, optimization and climate/atmosphere related problems.
+I have expertise in Artificial Intelligence/Deep Learning. I am particularly interested in  Natural Language Processing, image processing, optimization and climate/atmosphere related problems.
 </p>
 
 <p align="justify">
-My skills include Python, scikit-learn, Pandas, Pytorch, Scipy, Machine learning, Linux, Bash scripting, SQL, Git, Matlab, Fortran.
-I am familiar with MLFLow and Docker.
+My skills include 
+  
+  * Python, scikit-learn, Pandas
+  * Pytorch, Scipy
+  * Linux, Bash scripting
+  * SQL, Git, Matlab, Fortran.
+  * MLFLow, Docker
 </p>
 
 I have done the following the projects,
